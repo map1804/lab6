@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.listSach{
+  display: grid;
+  grid-template-columns: auto auto;
+  max-width: 900px;
+}
+.MotSach{
+  margin: auto;
+}
+
+.MotSach img {
+  width: 200px;
+  height: 200px;
+}
+.w-sach{
+  width: 200px;
+  margin: auto;
+}
+h3{
+  font-size: 22px;
+}
+.btn:hover{
+  background-color: rgb(30, 153, 116);
+}
+
+.card-body {
+  height: 170px;
+}
